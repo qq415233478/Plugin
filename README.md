@@ -1,2 +1,2 @@
 # Plugin
-Android 插件化原理
+Android 插件化简单实现.
